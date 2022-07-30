@@ -1,0 +1,23 @@
+{
+  "name": "tspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachFlota/tspractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachFlota/tspractice/issues"
+  },
+  "homepage": "https://github.com/ZachFlota/tspractice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
